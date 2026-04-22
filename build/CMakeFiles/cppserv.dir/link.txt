@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -O2 CMakeFiles/cppserv.dir/main.cpp.o -o cppserv  -lpthread -lstdc++fs 

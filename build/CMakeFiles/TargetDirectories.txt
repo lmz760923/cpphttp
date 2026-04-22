@@ -1,0 +1,3 @@
+/var/www/cpp/build/CMakeFiles/cppserv.dir
+/var/www/cpp/build/CMakeFiles/edit_cache.dir
+/var/www/cpp/build/CMakeFiles/rebuild_cache.dir
